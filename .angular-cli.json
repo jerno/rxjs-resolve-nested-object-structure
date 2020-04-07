@@ -1,0 +1,8 @@
+{
+  "apps": [{
+    "root": "",
+    "sourceRoot": "src",
+    "prefix": "app",
+    "styles": ["styles.css"]
+  }]
+}
